@@ -1,0 +1,32 @@
+
+// bricks information
+
+s collision.png 5
+
+
+// This Should be row 7-----------
+                                                     
+                                                     
+                                                     
+   111                 111
+                                                      
+                                                  111
+                                                     
+         111               111                       
+                                                      
+                                                      
+                                                      
+                111
+                                                      
+                                    111
+                                                      
+       111               
+               
+                             111
+                                                      
+                                                      
+                   111                             111
+     111   
+       
+         
+// This Should be row 32 -----------

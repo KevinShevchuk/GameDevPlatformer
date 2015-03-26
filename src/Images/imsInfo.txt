@@ -1,0 +1,24 @@
+
+// imsInfo.txt images
+
+// title/help screen
+o splash.png
+
+// jack's images
+s rd_walk_left.gif 6
+s rd_walk_right.gif 6
+s rd_fly_left.gif 6
+s rd_fly_right.gif 6
+o rd_still_left.gif
+o rd_still_right.gif
+
+
+// scenery images
+o cloud.png
+o mid.png
+
+// fireball and its explosion
+o rock_tiny.png
+o rock_normal.png
+o rock_big.png
+s rock_break.png 3
